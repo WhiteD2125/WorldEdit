@@ -1,5 +1,5 @@
 <h1>
-    <img src="worldedit-logo.svg" alt="WorldEdit" width="400" /> 
+    <img src="worldedit-logo.svg" alt="WorldEdit" width="400" />
 </h1>
 
 **A Minecraft Map Editor... that runs in-game!**
@@ -14,7 +14,7 @@ Java Edition required. WorldEdit is compatible with NeoForge, Fabric, Bukkit, Sp
 
 This place contains the Java code for WorldEdit, but if you want to just use WorldEdit, get the mod or plugin from Modrinth:
 
-https://modrinth.com/plugin/worldedit/versions
+<https://modrinth.com/plugin/worldedit/versions>
 
 Edit the Code
 ---------
@@ -23,7 +23,7 @@ Want to add new features to WorldEdit or fix bugs yourself? You can get the game
 
 1. Download WorldEdit's source code and put it somewhere. We recommend you use something called Git if you already know how to use it, but [you can also just download a .zip file](https://github.com/EngineHub/WorldEdit/archive/master.zip). (If you plan on contributing the changes, you will need to figure out Git.)
 2. Install any version of Java greater than or equal to 21.
-   * Note that if you do _not_ install JDK 21 exactly, Gradle will download it for you on first run. However, it is still required to have some form of Java installed for Gradle to start at all.
+   * Note that if you do *not* install JDK 21 exactly, Gradle will download it for you on first run. However, it is still required to have some form of Java installed for Gradle to start at all.
 3. Open terminal / command prompt / bash and navigate to the directory where you put the source code.
 4. Run **one** of these following commands:
    * Mac OS X / Linux: `./gradlew :worldedit-fabric:runClient`

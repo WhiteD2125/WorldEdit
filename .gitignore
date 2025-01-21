@@ -23,3 +23,5 @@ runs
 # i18n
 worldedit-core/src/main/resources/lang/*
 !worldedit-core/src/main/resources/lang/strings.json
+
+.fake
